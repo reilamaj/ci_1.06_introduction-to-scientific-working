@@ -1,0 +1,167 @@
+# Task: Research Existing Work
+
+## Topic _Light Emitting Diode_
+
+### Organic Light Emitting Diodes
+
+[Link to paper] (https://www.researchgate.net/publication/249920763_Organic_Light_Emitting_Diodes_materials_device_structures_and_light_extraction)
+
+#### Answers:
+
+##### Hypothesis:
+
+Organic Light Emitting Devices (OLEDs) are presented with particular emphasis on
+materials, device structures and strategies to improve light extraction. For the
+fabrication of efficient OLEDs, two types of electroluminescent materials are used
+(small molecules and polymers) with efficiencies and lifetimes which are now acceptable
+for small size or low content information displays. Two main approaches are described to
+enhance external efficiency, one is based on direct modification of the species emission
+and the other on modification of emitted guided modes propagation within the device.
+The features of the different approaches are evidenced through examples of devices reported in the literature.
+
+
+##### Experimets:
+
+The emissive and conductive layers are made of special organic molecules that conduct electricity.
+The anode and cathode connect the OLED to the source of electricity.
+When electricity is applied to an OLED, the emissive layer becomes 
+negatively charged and the conductive layer becomes positively charged.
+Electrostatic forces cause electrons to move from the positive conductive 
+layer toward the negative emissive layer. This causes a change in the electrical
+levels and makes radiation that has a frequency in the range of visible light.
+OLED, as with all diodes, can only work if electricity flows through them in 
+the correct direction. The Anode, connected to the emmisive layer must be at a
+higher electrical potential (more volts, more positive) than the cathode, connected to the conductive layer, for the OLED to work.
+
+##### Conclusion
+
+In summary, we have described materials and OLED device performances showing  that the technology
+is now mature for industrial applications like advanced displays  or solid-state lighting.
+Highly efficient devices can be obtained by using phosphorescent materials with nearly 100% internal
+quantum efficiency. Lifetimes of commercial products (music players, displays for mobile phone) are
+typically rated at  10,000–20,000 h. However, larger display panels for TV sets seem to be still many
+years away. The key issue of light trapping in the planar OLED structure has been discussed through the
+description of strategies investigated to improve light extraction. The employed strategies have been
+classified into two main approaches: the extraction improvement by means of  •  a direct modification
+of the material emission  •  a modification of the emitted light propagation in the OLED structure.
+
+## Topic _Ethernet_
+
+### Use of Ethernet Technology in Computer Network
+
+[Link to paper](https://computerresearch.org/index.php/computer/article/download/296/296)
+
+#### Answers:
+
+##### Hypothesis:
+Ethernet is introduced as one of the
+oldest but still the largest form of technology being
+used for networking. For many years, Ethernet has
+proven itself as a very popular, fast and relatively
+inexpensive LAN technology.
+Actually, it would be difficult to think of the
+presence of computer network without Ethernet. So
+keeping the immense relevance of Ethernet in mind,
+
+##### Experimets:
+
+Ethernet works by linking computers and other
+devices using cables. One end of the Ethernet cable is
+connected to the computer whereas the other is
+connected to a connector such as repeater, hub and
+switch. As far as sending signal is concerned, Ethernet
+basically works by chain reactions. One computer
+generates and sends a signal of its desired action. The
+signal passes through the cables, and then through the
+connector, then to cables again and finally to their
+designated receiving computer. Also, Ethernet uses an
+algorithm based on random delay times to determine
+the proper waiting period between retransmission. In
+traditional Ethernet, the protocol for broadcasting,
+
+##### Conclusion
+
+Ethernet is a protocol that controls the way data
+is transmitted over a local area network (LAN). 
+Ether, meaning “light bearing”, stands for the use of light as a means of data carrying
+medium whereas Net is a short form of network that
+means the community or a group of linked computers. It
+is not a wireless technology because it uses physical
+media generally called wires. Predominantly, Ethernet
+specifications define low level data transmission
+protocols
+
+## Topic _Digital Voltmeter_
+
+### Paper Title
+
+[Link to paper](http://example.org/papers/some-paper.pdf)
+
+#### Answers:
+
+##### Hypothesis:
+
+Nearly all measurements in physical chemistry
+are currently based on the conversion of the quantities to be measured into electric current or voltage,
+which is usually recorded on a sh
+
+##### Experimets:
+
+The scattered electron intensities recorded on a
+photographic plate were measured by a microphotometer (Rigaku Denki MP3),2). The electric current from a photomultiplier
+(RCA 931A), about 0.1μA, was grounded through
+a high-precision resistor of 10 MΩ installed in an
+integrating digital voltmeter (Takeda Riken TR65A15, 10 kc per volt); hence, no pre-amplifier
+was necessary. The output voltage, read out in
+five significant decimal digits, was recorded by a
+digital printer (TR-6191). The basic conditions
+for the measurement were adjusted in the following
+way. The detector system was found to have
+sufficient precision and stability for carrying out
+the required tests.
+a) Dark Current. When no incident light was
+present and the d. c. voltage of 320 V, was applied
+to the photomultiplier, the photocurrent was about
+1.5×10-9A, and no appreciable irregular fluctuation was observed during the measurement.
+b) Optical System. It was possible to obtain
+an optical source of sufficient stability and linearity
+by supplying a lamp with a d. c. current of about
+2.5 A from a pair of two 6-V batteries (108 A hr)
+connected in parallel. The brightness of the
+light decreased with time in the ratio of about
+3×10-5per minute.
+c) Photoelectric Stability. The random noises
+in the photocurrent with periods of more than a
+few tenths of a cycle per second can be rejected
+by an integrating measurement with a gate time
+of a few seconds. The photomultiplier was used
+with a lowered sensitivity with a d. c. voltage of
+about 320 V across Electrodes 9 and 11 of the
+931A tube. Care was taken to stabilize this d. c.
+
+##### Conclusion
+
+a) In comparison with analogue measurements, errors from
+various electric sources (random noises generated
+in amplification, transmission, etc.) and mechanical
+sources (friction in pen recording, uncertainties
+in the chart scale, etc.) can be decreased or eliminated.
+b) The measurements can not only be made
+more easily and rapidly, but also the outputs can
+be used more directly as input data to an electronic
+computer for a subsequent data analysis.
+c) The measurements can be made much more
+precisely, since the readings can he integrated for
+an arbitrary length of time, or the results of several
+repeated scannings can be superimposed. This
+procedure improves the signal-to-noise ratio appreciably.
+The present note will report on the application
+of the above technique to the microdensitometry
+of electron-diffraction photographs.1) 
+
+
+
+
+
+
+
